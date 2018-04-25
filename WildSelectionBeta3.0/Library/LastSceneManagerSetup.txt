@@ -1,7 +1,7 @@
 sceneSetups:
-- path: Assets/Menu.unity
+- path: Assets/Scene/Menu.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Lvl_0_LeLabo.unity
+- path: Assets/Scene/Scene0_Labo.unity
   isLoaded: 0
   isActive: 0
