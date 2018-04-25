@@ -15,6 +15,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 9ca6347af5ceb6b0d1c105af31b6722e UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 cac5093fb1baf037bd671ecbc6727828 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ScreenOverlay
+da80cd1be95d3c86569ef151ac634cbf Assembly-CSharp.dll:.SettingsMenu
 99c211a8bece7f96221393a6b55fb2bc Assembly-CSharp.dll:.PlayerMove
 71778c9b45c50a65b865c5bc42204043 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.NoiseAndScratches
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
@@ -188,5 +189,13 @@ cc897e31f90a455da1ad6fffc97043f1 Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 33804adb1e09446177af93d1307c32ed Assembly-CSharp.dll:.PlayerLookS
 67af8340ec9c081c037c8aa5c753ce0a Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ColorCorrectionRamp
 53dbd7baa3c8da2f87828dd70d70dae4 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.DepthOfFieldDeprecated
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Quit
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.InversorMenu
+>>>>>>> parent of f47a41c... Option Devenu Utile
+=======
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Quit
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.InversorMenu
+>>>>>>> parent of f47a41c... Option Devenu Utile
