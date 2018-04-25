@@ -101,6 +101,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 9ca6347af5ceb6b0d1c105af31b6722e UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 a32f33d00a7a1fe2bf4c764c4b02d30d Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.BloomAndFlares
 4cf1ceae9881e3ae26ab45745f3aa417 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.Grayscale
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PassToLevel1
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -140,6 +141,7 @@ a51173280b81aed3c792da6e9cebc4cd Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 7fc3adfac7efbc0706567dbaca46f637 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.Fisheye
 9865a0db77364f8930077972a1d5efab Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.BloomOptimized
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PlayerAnimations
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.BoutonQuitter
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -157,6 +159,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3ae0dad0b55a80319e1d57c2dce28da7 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.Tonemapping
 e7bb159691bf190bcd3ea65e505c6538 Assembly-CSharp.dll:.scr_camera
 33804adb1e09446177af93d1307c32ed Assembly-CSharp.dll:.PlayerLook
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CameraControleMenu
 d77cff72e7e1692a0a3832c78a646f37 Assembly-CSharp.dll:.Spawn
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -185,4 +188,5 @@ cc897e31f90a455da1ad6fffc97043f1 Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 33804adb1e09446177af93d1307c32ed Assembly-CSharp.dll:.PlayerLookS
 67af8340ec9c081c037c8aa5c753ce0a Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ColorCorrectionRamp
 53dbd7baa3c8da2f87828dd70d70dae4 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.DepthOfFieldDeprecated
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PassToLevel1
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Quit
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.InversorMenu
